@@ -11,4 +11,4 @@
 - 🎤 I also do public speaking, like this speech at an <a href="https://www.youtube.com/watch?v=9eZnXZx77Ac">Uber Engineering event</a>
 - 📞 Contact me via <a href="https://www.linkedin.com/in/juliastjerna/">LinkdIn</a>
 
-*Wanna see 10 000 spheres blow up? (Watch it here)[https://threejs-big-bang.netlify.app/]*
+  *Wanna see 10 000 spheres blow up? <a href="https://threejs-big-bang.netlify.app/">Watch it here</a>*
