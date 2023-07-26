@@ -4,7 +4,7 @@
 
 - 👩‍💻 I'm Julia
 - 📍 I'm based in Amsterdam
-- ❤️‍🔥 My passion is web development with 3D modeling
+- ❤️‍🔥 My passion is 3D Web Development
 - 💡 I'm currently learning <a href="https://threejs.org/">threejs</a>
   - *Psssst!! I've created a really good starting <a href="https://github.com/zerodeleo/template-frontend-webpack/tree/threejs">template<a/> for beginners*
 - 🏢 I'm currently a Head Instructor and a fullstack JS/TS dev at <a href="https://www.salt.study/our-hubs/amsterdam">\<\/salt\></a>
