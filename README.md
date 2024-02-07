@@ -5,7 +5,7 @@
 - 👩‍💻 I'm Julia
 - 📍 I'm based in Amsterdam
 - ❤️‍🔥 My passion is React (somehow, I just got stuck in the love for the framework + Native of course)
-  - *Psssst!! Here's a [https://github.com/Tokels/react-native-template](template for React Native that I just created)*
+  - *Psssst!! Here's a [template for React Native that I just created](https://github.com/Tokels/react-native-template) *
   - *I used an agile workflow, <a href"https://github.com/orgs/Tokels/projects/2/views/2">check out this Project Board to see how I structured the project</a>*
 - 💡 I'm currently working on the second release of my react-native-template, implement setup for authentication
 - 🏢 I'm currently a fullstack JS/TS dev at <a target="_blank" href="https://www.salt.study/our-hubs/amsterdam">\<\/salt\></a>
